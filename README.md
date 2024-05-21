@@ -1,22 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
 
-<div align="center">
-  <img src="imagem_2024-02-29_231917069.png">
-</div>
+
 <!--## ✨ Hey, Dev! It’s good to see you here. ✨-->
 
-## You can call me Ma!
+ welcome to my profile! 
 
 <div>
-  🐋 I'm eighteen years old! I actually living in Brazil 
-  <br /> and I'm a software engineer student
-  
+- 🖊 I’m studying Software Engineear </br>
   I´m doing my best version :)
 </div>
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NeugeMa&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="My stats" /> 
-  <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeugeMa&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+ 
+  <a href="https://github.com/NeugeMa">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeugeMa&show_icons=true&count_private=true&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeugeMa&layout=compact&langs_count=7&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117"/>
 </div>
 
 
