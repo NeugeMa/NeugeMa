@@ -6,7 +6,7 @@
  welcome to my profile! 
 
 <div>
-- 🖊 I’m studying Software Engineear </br>
+- 🖊 I’m a Software Engineear student </br>
   I´m doing my best version :)
 </div>
 
