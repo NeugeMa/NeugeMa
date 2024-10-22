@@ -1,26 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
+## oioi :) eu sou a Mariana, estágiaria FIAP e estudante de programação!
 
-
-<!--## ✨ Hey, Dev! It’s good to see you here. ✨-->
+<!--Bloco de Linguagens + GithubStars-->
   <a href="https://github.com/NeugeMa">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeugeMa&show_icons=true&count_private=true&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeugeMa&layout=compact&langs_count=7&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeugeMa&layout=compact&langs_count=7&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117"/>
 </div>
 
 
-Studying  at this moment :)
-</br> 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-You can send menssage for me! 
-<br /> Find me on another apps. 
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mari-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ## 
+ 
 <div> 
-  <a href = "mailto:cmp.1a.mariana.n.dourado@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-neugebauer-dourado-80588b266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"       style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://instagram.com/xsmits" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariana.n.dourado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/neugema" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
