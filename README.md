@@ -1,11 +1,7 @@
 ## oioi :) eu sou a Mariana, estágiaria FIAP e estudante de programação!
 
 <!--Bloco de Linguagens + GithubStars-->
-<div align="center">
-  <a href="https://github.com/neugema">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neugema&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neugema&layout=compact&langs_count=7&theme=dracula"/>
-</div>    
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeugeMa&show_icons=true&count_private=true&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/> 
 
 
 <div style="display: inline_block"><br>
