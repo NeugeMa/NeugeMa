@@ -1,5 +1,3 @@
-## oioi :) eu sou a Mariana, estágiaria FIAP e estudante de programação!
-
 <!--Bloco de Linguagens + GithubStars-->
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeugeMa&show_icons=true&count_private=true&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/> 
 
