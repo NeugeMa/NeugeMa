@@ -1,19 +1,22 @@
-<!--Bloco de Linguagens + GithubStars-->
+## Hey, I'm Ma <3
 
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="APB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="APB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mari-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="APB-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ## 
- 
-<div> 
-  <a href = "mailto:mariana.n.dourado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/neugema" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Software Engineer at [Integration Consulting](https://integrationconsulting.com/en/) · Software Engineering student at [FIAP](https://www.fiap.com.br)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neugema/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://collection-of-me.vercel.app/)
+
+## Featured Projects
+
+**[collection-of-me](https://collection-of-me.vercel.app/)** ·
+About 'how am I', company's, projects, skills
+
+**[SAST Platform: Static Security Analysis for Java Repositories](https://github.com/NeugeMa/plataforma-sast)** ·
+Built a SAST platform that analyzes Java code from public GitHub repositories without executing it. It combines deterministic AST-based rules, taint tracing, and advisory insights from a local LLM (Ollama). The system uses an asynchronous architecture with RabbitMQ, PostgreSQL (outbox pattern), and background workers, and degrades gracefully if the AI is unavailable.
+
+## Skills 🛠️
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![DevOps](https://img.shields.io/badge/DEVOPS-0A66C2?style=for-the-badge&logoColor=white)
+![Go](https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white)
