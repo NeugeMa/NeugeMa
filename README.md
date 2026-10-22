@@ -13,7 +13,7 @@ About 'how am I', company's, projects, skills
 **[SAST Platform: Static Security Analysis for Java Repositories](https://github.com/NeugeMa/plataforma-sast)** ·
 Built a SAST platform that analyzes Java code from public GitHub repositories without executing it. It combines deterministic AST-based rules, taint tracing, and advisory insights from a local LLM (Ollama). The system uses an asynchronous architecture with RabbitMQ, PostgreSQL (outbox pattern), and background workers, and degrades gracefully if the AI is unavailable.
 
-## Skills 🛠️
+## Skills
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
